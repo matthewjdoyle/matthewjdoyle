@@ -8,7 +8,6 @@
 
 🎓 PhD in Physics from the University of Manchester for research into Quantum Turbulence \
 💻 Full Stack Developer with a passion for innovative technologies  \
-🌱 Currently learning and growing in the tech world  \
 🔭 Working on developing my own projects  
 
 
