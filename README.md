@@ -1,7 +1,7 @@
 ### Matthew J Doyle. PhD.
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=700&lines=Full+Stack+Developer;Passionate+about+Physics+and+Innovative+Tech;Always+learning+new+technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=700&lines=Full+Stack+Developer;Passionate+about+Physics+and+Innovative+Tech;Always+learning+and+building" alt="Typing SVG" />
 </div>
 
 ## About Me
