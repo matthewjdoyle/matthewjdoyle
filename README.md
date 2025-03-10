@@ -55,7 +55,7 @@
   <a href="https://github.com/matthewjdoyle/physics-visualisations">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matthewjdoyle&repo=physics-visualisations&theme=dark" />
   </a>
-  <a href="https://github.com/matthewjdoyle/credentials">
+  <a href="[https://github.com/matthewjdoyle](https://github.com/matthewjdoyle/matthewjdoyle.github.io)">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matthewjdoyle&repo=matthewjdoyle.github.io&theme=dark" />
   </a>
 </div>
