@@ -7,9 +7,18 @@
 ## About Me
 
 🎓 PhD in Physics from the University of Manchester for research into Quantum Turbulence \
-💻 Full Stack Developer with a passion for innovative technologies  \
+💻 Developer with a passion for innovative technologies  \
 🔭 Working on developing my own projects  
 
+### My Skillset
+- Software Development
+- Web Development
+- Numerical Modelling
+- Data Analysis
+- Image Processing & Analysis
+- 3D Plot Visualisations
+
+<br>
 
 ## 🛠️ Technologies & Tools
 
@@ -42,14 +51,17 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 
+<br>
 
-## 📊 GitHub Stats
+## GitHub Stats 📊 
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthewjdoyle&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-## 🌟 Featured Projects
+<br>
+
+## Featured Projects 🌟
 
 <div align="center">
   <a href="https://github.com/matthewjdoyle/physics-visualisations">
@@ -60,17 +72,20 @@
   </a>
 </div>
 
-## 🤝 How to reach me
+<br>
 
-<div align="center">
+<br>
+
+### How to reach me
+<div align="left">
   <a href="https://www.linkedin.com/in/matthewjdoyle" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="mailto:enquire.matthewjdoyle@gmail.com">
+  <a href="mailto:enquire.matthewjdoyle@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <a href="https://matthewjdoyle.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=globe&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000211?style=for-the-badge&logo=globe&logoColor=white" target="_blank">
   </a>
 </div>
 
