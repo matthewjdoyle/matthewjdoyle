@@ -1,4 +1,4 @@
-### Matthew J Doyle. PhD.
+### Matthew J. Doyle, PhD.
 
 <br>
 
