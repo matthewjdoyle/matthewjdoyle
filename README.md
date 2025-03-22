@@ -1,22 +1,25 @@
 ### Matthew J Doyle. PhD.
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=700&lines=Every-day-programmer;Passionate+about+physics+and+innovative+technologies;Always+learning+and+building+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=700&lines=Physicist,+code crafter,+problem+solver;Passionate+about+physics+and+innovative+technologies;Always+learning+and+building+new+things" alt="Typing SVG" />
 </div>
 
 ## About Me
 
 🎓 PhD in Physics from the University of Manchester for research into Quantum Turbulence \
-💻 Developer with a passion for innovative technologies  \
-🔭 Working on developing my own projects  
+🔭 Currently I'm developing my own projects, tutoring students in physics and maths, and training LLM models as an independent contractor. 
+🔎 I'm searching for new opportunities! Please reach out (contact details below) if you think I'd suit an open position! 
 
 ### My Skillset
 - Software Development
 - Web Development
 - Numerical Modelling
+- Data Cleaning
 - Data Analysis
 - Image Processing & Analysis
 - 3D Plot Visualisations
+- Real-time Data Visualisations
+- Device Control and Automation
 
 <br>
 
