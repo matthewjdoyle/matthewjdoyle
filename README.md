@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=700&lines=Physicist,+coder,+problem+solver.;Passionate+about+physics+and+innovative+technologies.;Always+learning+and+building+new+things..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=700&lines=Physicist,+coder,+problem+solver.;Passionate+about+physics+and+innovative+technologies.;Always+learning+and+building+new+things+.+.+." alt="Typing SVG" />
 </div>
 
 ## About Me
