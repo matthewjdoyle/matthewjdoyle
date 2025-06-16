@@ -14,11 +14,7 @@ Feel free to tweak it further to your liking!
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=700&color=05E68C&lines=Physicist,+coder,+problem+solver+.+.+.;Passionate+about+physics+and+innovative+technologies+.+.+.;Always+learning+and+building+new+things+.+.+." alt="Typing SVG" />
 </div>
 
-<br>
-
 <!-- About Section -->
-
-
 <table align="center" style="width: 100%; border-collapse: collapse; margin: 20px 0;">
   <tr>
     <td style="width: 50%; padding: 20px; vertical-align: top; border-right: 1px solid #e1e4e8;">
@@ -127,8 +123,6 @@ Feel free to tweak it further to your liking!
   </a>
 </div>
 
-<br>
-
 ---
 
 <!-- GitHub Stats -->
@@ -152,8 +146,6 @@ Feel free to tweak it further to your liking!
   <a href="https://www.linkedin.com/in/matthewjdoyle" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:enquire.matthewjdoyle@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
-
-<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=matthewjdoyle&color=05E68C&style=flat-square" alt="Profile views counter" />
