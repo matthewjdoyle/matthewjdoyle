@@ -127,6 +127,7 @@ Feel free to tweak it further to your liking!
 
 <!-- GitHub Stats -->
 <div align="center">
+<details>
   <summary><h3>GitHub Stats</h3></summary>
   <br>
   <p align="center">
@@ -135,6 +136,7 @@ Feel free to tweak it further to your liking!
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthewjdoyle&layout=compact&langs_count=7&theme=dark&border_color=05E68C"/>
     </a>
   </p>
+</details>
 </div>
 
 ---
