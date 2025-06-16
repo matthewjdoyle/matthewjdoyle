@@ -17,36 +17,37 @@ Feel free to tweak it further to your liking!
 <br>
 
 <!-- About Section -->
-<div align="center">
-  <h2>About</h2>
-</div>
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-<p align="center">
- PhD in Physics from the University of Manchester, specialised in Quantum Turbulence. <br>
- I'm passionate about developing innovative projects, tutoring, and contributing to AI model training. <br>
- Currently seeking new opportunities where I can apply my skills in physics and software development.
-</p>
-</td>
-<td width="50%" valign="top">
-<div align="center">
-<h3>Skillset</h3>
-</div>
-<ul>
-<li>Software Development</li>
-<li>Web Development</li>
-<li>Numerical Modelling</li>
-<li>Data Cleaning</li>
-<li>Data Analysis</li>
-<li>Image Processing & Analysis</li>
-<li>3D Plot Visualisations</li>
-<li>Real-time Data Visualisations</li>
-<li>Device Control and Automation</li>
-</ul>
-</td>
-</tr>
+
+<table align="center" style="width: 100%; border-collapse: collapse; margin: 20px 0;">
+  <tr>
+    <td style="width: 50%; padding: 20px; vertical-align: top; border-right: 1px solid #e1e4e8;">
+      <div style="text-align: center; margin-bottom: 15px;">
+        <h3 style="color: #05E68C; margin-bottom: 15px;">About Me</h3>
+        <p style="line-height: 1.6; font-size: 1.1em;">
+          PhD in Physics from the University of Manchester, specialised in Quantum Turbulence.<br>
+          I'm passionate about developing innovative projects, tutoring, and contributing to AI model training.<br>
+          Currently seeking new opportunities where I can apply my skills in physics and software development.
+        </p>
+      </div>
+    </td>
+    <td style="width: 50%; padding: 20px; vertical-align: top;">
+      <div style="text-align: center; margin-bottom: 15px;">
+        <h3 style="color: #05E68C;">Skillset</h3>
+      </div>
+      <ul style="list-style-type: none; padding-left: 0;">
+        <li style="margin: 8px 0; padding: 5px 10px; background: #010409; border-radius: 3px;">Software Development</li>
+        <li style="margin: 8px 0; padding: 5px 10px; background: #010409; border-radius: 3px;">Web Development</li>
+        <li style="margin: 8px 0; padding: 5px 10px; background: #010409; border-radius: 3px;">Numerical Modelling</li>
+        <li style="margin: 8px 0; padding: 5px 10px; background: #010409; border-radius: 3px;">Data Cleaning</li>
+        <li style="margin: 8px 0; padding: 5px 10px; background: #010409; border-radius: 3px;">Data Analysis</li>
+        <li style="margin: 8px 0; padding: 5px 10px; background: #010409; border-radius: 3px;">Image Processing & Analysis</li>
+        <li style="margin: 8px 0; padding: 5px 10px; background: #010409; border-radius: 3px;">3D Plot Visualisations</li>
+        <li style="margin: 8px 0; padding: 5px 10px; background: #010409; border-radius: 3px;">Real-time Data Visualisations</li>
+        <li style="margin: 8px 0; padding: 5px 10px; background: #010409; border-radius: 3px;">Device Control and Automation</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 ---
