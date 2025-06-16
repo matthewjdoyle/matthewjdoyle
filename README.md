@@ -32,15 +32,15 @@ Feel free to tweak it further to your liking!
         <h3 style="color: #05E68C;">Skillset</h3>
       </div>
       <ul style="list-style-type: none; padding-left: 0;">
-        <li style="margin: 8px 0; padding: 5px 10px; background: #010409; border-radius: 3px;">Software Development</li>
-        <li style="margin: 8px 0; padding: 5px 10px; background: #010409; border-radius: 3px;">Web Development</li>
-        <li style="margin: 8px 0; padding: 5px 10px; background: #010409; border-radius: 3px;">Numerical Modelling</li>
-        <li style="margin: 8px 0; padding: 5px 10px; background: #010409; border-radius: 3px;">Data Cleaning</li>
-        <li style="margin: 8px 0; padding: 5px 10px; background: #010409; border-radius: 3px;">Data Analysis</li>
-        <li style="margin: 8px 0; padding: 5px 10px; background: #010409; border-radius: 3px;">Image Processing & Analysis</li>
-        <li style="margin: 8px 0; padding: 5px 10px; background: #010409; border-radius: 3px;">3D Plot Visualisations</li>
-        <li style="margin: 8px 0; padding: 5px 10px; background: #010409; border-radius: 3px;">Real-time Data Visualisations</li>
-        <li style="margin: 8px 0; padding: 5px 10px; background: #010409; border-radius: 3px;">Device Control and Automation</li>
+        <li style="margin: 8px 0; padding: 8px 12px; background: linear-gradient(90deg, #05E68C20, transparent); border-left: 3px solid #05E68C; border-radius: 3px;">Software Development</li>
+        <li style="margin: 8px 0; padding: 8px 12px; background: linear-gradient(90deg, #05E68C20, transparent); border-left: 3px solid #05E68C; border-radius: 3px;">Web Development</li>
+        <li style="margin: 8px 0; padding: 8px 12px; background: linear-gradient(90deg, #05E68C20, transparent); border-left: 3px solid #05E68C; border-radius: 3px;">Numerical Modelling</li>
+        <li style="margin: 8px 0; padding: 8px 12px; background: linear-gradient(90deg, #05E68C20, transparent); border-left: 3px solid #05E68C; border-radius: 3px;">Data Cleaning</li>
+        <li style="margin: 8px 0; padding: 8px 12px; background: linear-gradient(90deg, #05E68C20, transparent); border-left: 3px solid #05E68C; border-radius: 3px;">Data Analysis</li>
+        <li style="margin: 8px 0; padding: 8px 12px; background: linear-gradient(90deg, #05E68C20, transparent); border-left: 3px solid #05E68C; border-radius: 3px;">Image Processing & Analysis</li>
+        <li style="margin: 8px 0; padding: 8px 12px; background: linear-gradient(90deg, #05E68C20, transparent); border-left: 3px solid #05E68C; border-radius: 3px;">3D Plot Visualisations</li>
+        <li style="margin: 8px 0; padding: 8px 12px; background: linear-gradient(90deg, #05E68C20, transparent); border-left: 3px solid #05E68C; border-radius: 3px;">Real-time Data Visualisations</li>
+        <li style="margin: 8px 0; padding: 8px 12px; background: linear-gradient(90deg, #05E68C20, transparent); border-left: 3px solid #05E68C; border-radius: 3px;">Device Control and Automation</li>
       </ul>
     </td>
   </tr>
