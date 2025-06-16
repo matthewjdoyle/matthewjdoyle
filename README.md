@@ -1,104 +1,162 @@
-# Matthew J. Doyle, PhD.
-
-<br>
+<!-- 
+Hello! I've revamped your README to be more visually appealing and organized.
+I've used HTML tables and divs to structure the content. 
+Feel free to tweak it further to your liking!
+-->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=700&lines=Physicist,+coder,+problem+solver+.+.+.;Passionate+about+physics+and+innovative+technologies+.+.+.;Always+learning+and+building+new+things+.+.+." alt="Typing SVG" />
+  <a href="https://matthewjdoyle.github.io/">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=05E68C&height=180&section=header&text=Matthew%20J.%20Doyle,%20PhD&fontSize=40&fontColor=fff&animation=fadeIn&fontAlign=50&fontAlignY=35" alt="Header Banner"/>
+  </a>
 </div>
 
-## About Me
-
-🎓 PhD in Physics from the University of Manchester for research into Quantum Turbulence in the Zero Temperature Limit. \
-🔭 Currently I'm developing my own projects, tutoring students in physics and maths, and training LLM models as an independent contractor. \
-🔎 I'm searching for new opportunities! Please reach out (contact details below) if you think I'd suit an open position! 
-
-https://matthewjdoyle.github.io/
-
-### My Skillset
-- Software Development
-- Web Development
-- Numerical Modelling
-- Data Cleaning
-- Data Analysis
-- Image Processing & Analysis
-- 3D Plot Visualisations
-- Real-time Data Visualisations
-- Device Control and Automation
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=700&color=05E68C&lines=Physicist,+coder,+problem+solver+.+.+.;Passionate+about+physics+and+innovative+technologies+.+.+.;Always+learning+and+building+new+things+.+.+." alt="Typing SVG" />
+</div>
 
 <br>
 
-## 🛠️ Technologies & Tools
+<!-- About Section -->
+<div align="center">
+  <h2>About</h2>
+</div>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) +
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![PyGame](https://img.shields.io/badge/-PyGame-FED130?style=flat-square&logo=python&logoColor=black)
-![PyQt5](https://img.shields.io/badge/-PyQt5-41CD52?style=flat-square&logo=qt&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+<p align="center">
+ PhD in Physics from the University of Manchester, specialised in Quantum Turbulence. <br>
+ I'm passionate about developing innovative projects, tutoring, and contributing to AI model training. <br>
+ Currently seeking new opportunities where I can apply my skills in physics and software development.
+</p>
+</td>
+<td width="50%" valign="top">
+<div align="center">
+<h3>Skillset</h3>
+</div>
+<ul>
+<li>Software Development</li>
+<li>Web Development</li>
+<li>Numerical Modelling</li>
+<li>Data Cleaning</li>
+<li>Data Analysis</li>
+<li>Image Processing & Analysis</li>
+<li>3D Plot Visualisations</li>
+<li>Real-time Data Visualisations</li>
+<li>Device Control and Automation</li>
+</ul>
+</td>
+</tr>
+</table>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+---
 
-![FORTRAN90](https://img.shields.io/badge/-FORTRAN90-734F96?style=flat-square&logo=fortran&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+<!-- Technologies & Tools -->
+<div align="center">
+  <h2>Technologies & Tools</h2>
+</div>
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="right" style="padding-right:10px;"><strong>Languages</strong></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+      <img src="https://img.shields.io/badge/-FORTRAN90-734F96?style=flat-square&logo=fortran&logoColor=white" alt="FORTRAN90">
+      <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB">
+    </td>
+  </tr>
+  <tr>
+    <td align="right" style="padding-right:10px;"><strong>Web Development</strong></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+      <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+      <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
+      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+      <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind">
+      <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
+    </td>
+  </tr>
+  <tr>
+    <td align="right" style="padding-right:10px;"><strong>Data Science & Visualization</strong></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
+      <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+      <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+      <img src="https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy">
+      <img src="https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy">
+      <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib">
+      <img src="https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white" alt="Seaborn">
+      <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
+    </td>
+  </tr>
+    <tr>
+    <td align="right" style="padding-right:10px;"><strong>Desktop & Game Development</strong></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/-PyQt5-41CD52?style=flat-square&logo=qt&logoColor=white" alt="PyQt5">
+      <img src="https://img.shields.io/badge/-PyGame-FED130?style=flat-square&logo=python&logoColor=black" alt="PyGame">
+    </td>
+  </tr>
+  <tr>
+    <td align="right" style="padding-right:10px;"><strong>Tools</strong></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX">
+      <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Github">
+      <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS">
+    </td>
+  </tr>
+</table>
 
+---
 
-<br>
-
-## Projects
+<!-- Projects Section -->
+<div align="center">
+  <h2>Public Projects</h2>
+</div>
 
 <div align="center">
   <a href="https://github.com/matthewjdoyle/physics-visualisations">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matthewjdoyle&repo=physics-visualisations&theme=dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matthewjdoyle&repo=physics-visualisations&theme=dark&border_color=05E68C" />
   </a>
   <a href="https://github.com/matthewjdoyle/matthewjdoyle.github.io">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matthewjdoyle&repo=matthewjdoyle.github.io&theme=dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matthewjdoyle&repo=matthewjdoyle.github.io&theme=dark&border_color=05E68C" />
   </a>
 </div>
 
 <br>
 
-## GitHub Stats
+---
 
+<!-- GitHub Stats -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthewjdoyle&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-<br>
-
-<br>
-
-## How to reach me
-<div align="left">
-  <a href="https://www.linkedin.com/in/matthewjdoyle" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:enquire.matthewjdoyle@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://matthewjdoyle.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000666?style=for-the-badge&logo=globe&logoColor=white" target="_blank">
-  </a>
+<details>
+  <summary><h3>GitHub Stats</h3></summary>
+  <br>
+  <p align="center">
+    <a href="https://github.com/matthewjdoyle">
+      <img src="https://github-readme-stats.vercel.app/api?username=matthewjdoyle&show_icons=true&theme=dark&border_color=05E68C" alt="Matthew's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthewjdoyle&layout=compact&langs_count=7&theme=dark&border_color=05E68C"/>
+    </a>
+  </p>
+</details>
 </div>
 
 ---
 
+<!-- Contact Section -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=matthewjdoyle&color=blue&style=flat-square" alt="Profile views counter" />
+  <h2>📫 Contact Info</h2>
+  <p>Feel free to reach out for collaborations or just a friendly chat!</p>
+  <a href="https://www.linkedin.com/in/matthewjdoyle" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:enquire.matthewjdoyle@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=matthewjdoyle&color=05E68C&style=flat-square" alt="Profile views counter" />
 </div>
  
