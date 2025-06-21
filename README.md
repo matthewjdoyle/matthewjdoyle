@@ -33,30 +33,24 @@ Feel free to tweak it further to your liking!
         <h3>🎯 About Me</h3>
       </div>
       
-      **🔬** **PhD in Physics** from the University of Manchester, specialised in **Quantum Turbulence**
+     **PhD in Physics** from the University of Manchester, specialised in **Quantum Turbulence**
       
-      **💡** I'm passionate about developing innovative projects, tutoring, and contributing to AI model training
+      I'm passionate about developing innovative projects, tutoring, and contributing to AI model training
       
-      **🎯** Currently seeking new opportunities where I can apply my skills in physics and software development
+      Currently seeking new opportunities where I can apply my skills in physics and software development
       
-      **⚡** Always excited to tackle complex problems and build meaningful solutions
+      Always excited to tackle complex problems and build meaningful solutions
+
+      ▸ Software Development  
+      ▸ Web Development  
+      ▸ Numerical Modelling  
+      ▸ Data Analysis  
+      ▸ Image Processing & Analysis  
+      ▸ 3D Plot Visualisations  
+      ▸ Real-time Data Visualisations  
+      ▸ Device Control and Automation  
       
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>💼 Core Skillset</h3>
-      </div>
-      
-      **▸** Software Development  
-      **▸** Web Development  
-      **▸** Numerical Modelling  
-      **▸** Data Cleaning & Analysis  
-      **▸** Image Processing & Analysis  
-      **▸** 3D Plot Visualisations  
-      **▸** Real-time Data Visualisations  
-      **▸** Device Control and Automation  
-      
-    </td>
+
   </tr>
 </table>
 
