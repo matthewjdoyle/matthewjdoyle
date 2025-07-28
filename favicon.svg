@@ -1,0 +1,14 @@
+<svg viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g transform="rotate(45 50 50)">
+    <ellipse cx="50" cy="50" rx="40" ry="25" stroke="#9B5DE5" stroke-width="6" fill="none"/>
+    <!-- Central Diamond Dots -->
+    <circle cx="43" cy="50" r="7" fill="#9B5DE5"/> 
+    <circle cx="50" cy="43" r="7" fill="#05e68c"/>
+    <circle cx="57" cy="50" r="7" fill="#9B5DE5"/>
+    <circle cx="50" cy="57" r="7" fill="#05e68c"/>
+    
+    <!-- Outer Static Dots (simplified for favicon) -->
+    <circle cx="10" cy="50" r="5" fill="#fde725"/>
+    <circle cx="90" cy="50" r="5" fill="#fde725"/>
+  </g>
+</svg> 
