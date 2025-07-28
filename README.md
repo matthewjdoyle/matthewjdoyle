@@ -8,7 +8,7 @@
 
 ## 👨‍🔬 About Me
 
-**PhD in Physics** from the University of Manchester, specialized in **Quantum Turbulence**
+**PhD in Physics** from the University of Manchester, specialised in **Quantum Turbulence**
 
 I'm passionate about developing innovative projects, tutoring, and contributing to AI model training. Currently seeking new opportunities where I can apply my skills in physics and software development.
 
