@@ -1,20 +1,20 @@
 # Matthew J. Doyle, PhD
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=05E68C&center=true&vCenter=true&width=600&lines=Physicist,+coder,+problem+solver;Passionate+about+physics+and+innovative+technologies;Always+learning+and+building+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=05E68C&center=true&vCenter=true&width=610&lines=Physicist,+coder,+problem+solver;Passionate+about+physics+and+innovative+technologies;Always+learning+and+building+new+things" alt="Typing SVG" />
 </div>
 
 ---
 
-## 👨‍🔬 About Me
+## About Me
 
 **PhD in Physics** from the University of Manchester, specialised in **Quantum Turbulence**
 
-I'm passionate about developing innovative projects, tutoring, and contributing to AI model training. Currently seeking new opportunities where I can apply my skills in physics and software development.
+I'm passionate about developing innovative projects, physics research and AI applications. Currently seeking new opportunities where I can apply my skills in physics and software development.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠Tech Stack
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -77,7 +77,7 @@ I'm passionate about developing innovative projects, tutoring, and contributing 
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
   <a href="https://github.com/matthewjdoyle/physics-visualisations">
@@ -94,7 +94,7 @@ I'm passionate about developing innovative projects, tutoring, and contributing 
 ---
 
 
-## 🌐 Connect With Me
+## Contact & Links 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/matthewjdoyle">
