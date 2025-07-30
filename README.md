@@ -1,7 +1,7 @@
 # Matthew J. Doyle, PhD
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=05E68C&center=true&vCenter=true&width=610&lines=Physicist,+coder,+problem+solver;Passionate+about+physics+and+innovative+technologies;Always+learning+and+building+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=05E68C&center=true&vCenter=true&width=700&lines=Physicist,+coder,+problem+solver;Passionate+about+physics+and+innovative+technologies;Always+learning+and+building+new+things" alt="Typing SVG" />
 </div>
 
 ---
