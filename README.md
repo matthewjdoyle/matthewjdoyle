@@ -19,14 +19,14 @@ I hold a PhD in Physics from the University of Manchester, where I focused on Qu
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=matthewjdoyle&theme=github_dark" alt="Matthew's GitHub Stats"/>
+  <!-- <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=matthewjdoyle&theme=github_dark" alt="Matthew's GitHub Stats"/> -->
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matthewjdoyle&theme=github_dark" alt="Top Languages"/>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=matthewjdoyle&theme=dark" alt="Contribution Streak"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=matthewjdoyle&theme=github_dark&utcOffset=0" alt="Productive Time"/>
-</div>
+</div> -->
 
 
 ## Get in Touch
