@@ -1,55 +1,46 @@
-# Matthew J. Doyle, PhD
+---
+title: Matthew J. Doyle, PhD | Physicist & Software Engineer
+summary: Physicist and Software Engineer specialised in Quantum Turbulence and AI applications.
+---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=05E68C&center=true&vCenter=true&width=700&lines=Physicist,+coder,+problem+solver;Passionate+about+physics+and+innovative+technologies;Always+learning+and+building+new+things" alt="Typing SVG" />
+  <img src="favicon.svg" width="100" height="100" alt="Favicon"/>
+  <h1>Matthew J. Doyle, PhD</h1>
+  <p>Physicist and Software Engineer specialised in Quantum Turbulence and AI applications.</p>
 </div>
-
----
 
 ## About Me
 
-**PhD in Physics** from the University of Manchester, specialised in **Quantum Turbulence**
+I hold a PhD in Physics from the University of Manchester, where I focused on Quantum Turbulence. My journey from the complex world of quantum fluids to software development is fuelled by a passion for solving intricate problems through code and physics-based insights.
 
-I'm passionate about developing innovative projects, physics research and AI applications. Currently seeking new opportunities where I can apply my skills in physics and software development.
+**Currently exploring:** Writing research papers on visualising and simulating quantum turbulence & developing web apps as a hobby. 
 
----
+## Tech Stack
 
-## Contact & Links
+- **Languages:** Python, C++, Fortran, SQL, TypeScript, JavaScript, Matlab
+- **Tools & Frameworks:** React, Node.js, Bun, Git, Linux
+- **Specialisations:** Quantum Turbulence, Simulation, Data Analysis
+
+## GitHub Stats
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/matthewjdoyle">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:matt@matthewd0yle.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://matthewd0yle.com/">
-    <img src="https://img.shields.io/badge/Portfolio-05E68C?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matthewjdoyle&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Matthew's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthewjdoyle&layout=compact&theme=dark" alt="Top Languages"/>
 </div>
 
----
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=matthewjdoyle&theme=dark" alt="Contribution Streak"/>
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=matthewjdoyle&theme=onedark&column=3&margin-w=15&no-bg=true" alt="Trophies"/>
+</div>
 
-             ________________________________________________
-            /                                                \
-           |    _________________________________________     |
-           |   |                                         |    |
-           |   |  C:\> cd secret-project_                |    |
-           |   |                                         |    |
-           |   |                                         |    |
-           |   |                                         |    |
-           |   |                                         |    |
-           |   |                                         |    |
-           |   |                                         |    |
-           |   |                                         |    |
-           |   |                                         |    |
-           |   |                                         |    |
-           |   |                                         |    |
-           |   |                                         |    |
-           |   |_________________________________________|    |
-           |                                                  |
-            \________________________________________________/
-                   \___________________________________/
+
+## Get in Touch
+
+- [LinkedIn](https://www.linkedin.com/in/matthewjdoyle)
+- [Portfolio](https://matthewd0yle.com/)
+- [Email](mailto:matt@matthewd0yle.com)
+
+---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=matthewjdoyle&color=05E68C&style=flat-square" alt="Profile Views"/>
