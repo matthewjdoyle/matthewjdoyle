@@ -1,8 +1,3 @@
----
-title: Matthew J. Doyle, PhD | Physicist & Software Engineer
-summary: Physicist and Software Engineer specialised in Quantum Turbulence and AI applications.
----
-
 <div align="center">
   <img src="favicon.svg" width="100" height="100" alt="Favicon"/>
   <h1>Matthew J. Doyle, PhD</h1>
@@ -24,13 +19,13 @@ I hold a PhD in Physics from the University of Manchester, where I focused on Qu
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matthewjdoyle&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Matthew's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthewjdoyle&layout=compact&theme=dark" alt="Top Languages"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=matthewjdoyle&theme=github_dark" alt="Matthew's GitHub Stats"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matthewjdoyle&theme=github_dark" alt="Top Languages"/>
 </div>
 
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=matthewjdoyle&theme=dark" alt="Contribution Streak"/>
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=matthewjdoyle&theme=onedark&column=3&margin-w=15&no-bg=true" alt="Trophies"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=matthewjdoyle&theme=github_dark&utcOffset=0" alt="Productive Time"/>
 </div>
 
 
