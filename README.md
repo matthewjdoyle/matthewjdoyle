@@ -6,22 +6,24 @@
 
 ## About Me
 
-I hold a PhD in Physics from the University of Manchester, where I focused on Quantum Turbulence. My journey from the complex world of quantum fluids to software development is fuelled by a passion for solving intricate problems through code and physics-based insights.
+I hold a PhD in Physics from the University of Manchester, where I focused on Quantum Turbulence. My journey from the chaotic and tangled world of quantum fluids to creating software and devices is fuelled by a passion for solving intricate problems and building. You can read much more on [my website](https://matthewd0yle.com/). 
 
-**Currently exploring:** Writing research papers on visualising and simulating quantum turbulence & developing web apps as a hobby. 
+**Currently exploring:** Writing research papers on visualising and simulating quantum turbulence & developing my web app library. 
 
-## Tech Stack
+## "Stack"
 
 - **Languages:** Python, C++, Fortran, SQL, TypeScript, JavaScript, Matlab
 - **Tools & Frameworks:** React, Node.js, Bun, Git, Linux
 - **Specialisations:** Quantum Turbulence, Simulation, Data Analysis
 
+<!--
 ## GitHub Stats
 
 <div align="center">
-  <!-- <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=matthewjdoyle&theme=github_dark" alt="Matthew's GitHub Stats"/> -->
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=matthewjdoyle&theme=github_dark" alt="Matthew's GitHub Stats"/> 
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matthewjdoyle&theme=github_dark" alt="Top Languages"/>
 </div>
+-->
 
 <!-- <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=matthewjdoyle&theme=dark" alt="Contribution Streak"/>
