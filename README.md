@@ -11,7 +11,7 @@ I hold a PhD in Physics from the University of Manchester, where I focused on Qu
 **Currently exploring:** Writing research papers on visualising and simulating quantum turbulence & developing my web app library. 
 
 ## "Stack"
-*The best tools, languages and frameworks from my experience*
+*The tools, languages and frameworks I have the best experience with*
 - **Languages:** Python, C++, Fortran, SQL, TypeScript, JavaScript, Matlab
 - **Tools & Frameworks:** React, Node.js, Bun, Git, Linux
 - **Specialisations:** Quantum Turbulence, Simulation, Data Analysis
