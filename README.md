@@ -1,7 +1,7 @@
 <div align="center">
   <img src="favicon.svg" width="100" height="100" alt="Favicon"/>
   <h1>Matthew J. Doyle, PhD</h1>
-  <p>Physicist and Software Engineer specialised in Quantum Turbulence and AI applications.</p>
+  <p>Physicist and writer of code specialised in Quantum Turbulence and AI applications.</p>
 </div>
 
 ## About Me
