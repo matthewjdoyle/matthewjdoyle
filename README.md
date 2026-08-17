@@ -3,16 +3,17 @@
   <h1>Matthew J. Doyle, PhD</h1>
 </div>
 
-Interested in computer technology, architecture programming, and chaotic physical systems.
+Interested in computing, software architecture, numerical methods, experiment design, and the mathematics of complex and chaotic physical systems.
 
 ## About Me
 
-- PhD Thesis (University of Manchester): Numerical Simulation and Experimental Visualisation of Quantum Turbulence in the Zero Temperature Limit.
-- Favourite langauges: C++, Fortran, Python (shoutout to classic HTML).
-- Favourite algorithms: Adams-Basforth, Barnes-Hut Tree, RK4, Monte-Carlo methods.
-- Experience providing RLHF for frontier-LLM training.
-- Maintainer of several free-to-use web apps and demos accessible at https://matthewd0yle.com/portfolio
-- Experimenting with local and open model LLMs.
+* PhD in Physics from the University of Manchester, specialising in numerical simulation and experimental visualisation of quantum turbulence.
+* Experienced in scientific computing with C++, Fortran, Python, MATLAB and shell scripting.
+* Particularly interested in numerical methods, N-body algorithms, Monte Carlo methods and computational modelling.
+* Experience contributing to RLHF for frontier LLM training.
+* Maintainer of several free-to-use web applications and interactive demos: [matthewd0yle.com/portfolio](https://matthewd0yle.com/portfolio)
+* Experimenting with local and open-weight LLMs, agentic software and AI-assisted development.
+
 
 ## Get in Touch
 
