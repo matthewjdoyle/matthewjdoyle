@@ -12,7 +12,7 @@ Interested in computing, software architecture, numerical methods, experiment de
 * Particularly interested in numerical methods, N-body algorithms, Monte Carlo methods and computational modelling.
 * Experience contributing to RLHF for frontier LLM training.
 * Maintainer of several free-to-use web applications and interactive demos: [matthewd0yle.com/portfolio](https://matthewd0yle.com/portfolio)
-* Experimenting with local and open-weight LLMs, agentic software and AI-assisted development.
+* Experimenting with local and open-weight LLMs, agentic automations and AI powered software.
 
 
 ## Get in Touch
