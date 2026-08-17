@@ -22,7 +22,7 @@ Interested in computer technology, architecture programming, and chaotic physica
 - [Home](https://matthewd0yle.com/)
 - [Web Portfolio](https://matthewd0yle.com/web-portfolio)
 - [Articles](https://matthewd0yle.com/articles)
-- [Publications List](https://matthewd0yle.com/publications)
+- [Research Publications List](https://matthewd0yle.com/publications)
 - [Visual Gallery](https://matthewd0yle.com/gallery)
 
 </br>
@@ -31,4 +31,8 @@ Interested in computer technology, architecture programming, and chaotic physica
   <img src="https://komarev.com/ghpvc/?username=matthewjdoyle&color=05E68C&style=flat-square" alt="Profile Views"/>
 </div>
 
-Maaybe I'm just here for the xp.
+Just here for the xp.
+
+<div align="center">
+  <img src="C:\Users\Matt\Documents\GitHub\matthewjdoyle\hq720.jpg" height="20" style="width:auto;" alt="199,392,821 cooking xp"/>
+</div>
