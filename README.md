@@ -5,12 +5,14 @@
 
 Interested in computer technology, architecture programming, and chaotic physical systems.
 
-### About Me
+## About Me
 
 - PhD Thesis (University of Manchester): Numerical Simulation and Experimental Visualisation of Quantum Turbulence in the Zero Temperature Limit.
 - Favourite langauges: C++, Fortran, Python (shoutout to classic HTML).
 - Favourite algorithms: Adams-Basforth, Barnes-Hut Tree, RK4, Monte-Carlo methods.
-- Maintainer of several free-to-use web apps accessible at https://matthewd0yle.com/portfolio
+- Experience providing RLHF for frontier-LLM training.
+- Maintainer of several free-to-use web apps and demos accessible at https://matthewd0yle.com/portfolio
+- Experimenting with local and open model LLMs.
 
 ## Get in Touch
 
@@ -27,9 +29,22 @@ Interested in computer technology, architecture programming, and chaotic physica
 
 </br>
 
+---
+
+### I always enjoy a graph.
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=matthewjdoyle&color=05E68C&style=flat-square" alt="Profile Views"/>
+  <img src="assets/profile-views-chart.png" alt="Profile views over time"/>
 </div>
+
+<!-- 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=matthewjdoyle&color=05E68C&style=flat-square" alt="Current Profile Views"/>
+</div> -->
+
+</br>
+
+---
 
 Just here for the xp.
 </br>
