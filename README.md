@@ -32,7 +32,5 @@ Interested in computer technology, architecture programming, and chaotic physica
 </div>
 
 Just here for the xp.
-
-<div align="center">
-  <img src="C:\Users\Matt\Documents\GitHub\matthewjdoyle\hq720.jpg" height="20" style="width:auto;" alt="199,392,821 cooking xp"/>
-</div>
+</br>
+<img src="hq720.jpg" height="20" style="width:auto;" alt="199,392,821 cooking xp"/>
