@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="favicon.svg" width="100" height="100" alt="Favicon"/>
   <h1>Matthew J. Doyle, PhD</h1>
@@ -8,9 +9,10 @@ Interested in computing, software architecture, numerical methods, experiment de
 ## About Me
 
 * PhD in Physics from the University of Manchester, specialising in numerical simulation and experimental visualisation of quantum turbulence.
+MSci in Physics from the University of Bristol, with a research project focused on simulating particle-collision experiments, developing conformal-tracking algorithms, and evaluating detector components for the proposed Compact Linear Collider (CERN).
 * Experienced in scientific computing with C++, Fortran, Python, MATLAB and shell scripting.
-* Particularly interested in numerical methods, N-body algorithms, Monte Carlo methods and computational modelling.
-* Experience contributing to RLHF for frontier LLM training.
+* Favourite algorithms: Adams-Basforth, Barnes-Hut Tree, RK4, Monte-Carlo methods.
+* Experience contributing to RLHF for frontier LLM training in physics, programming and computer-use.
 * Maintainer of several free-to-use web applications and interactive demos: [matthewd0yle.com/portfolio](https://matthewd0yle.com/portfolio)
 * Experimenting with local and open-weight LLMs, agentic automations and AI powered software.
 
