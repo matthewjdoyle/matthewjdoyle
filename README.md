@@ -38,7 +38,7 @@ Interested in computing, software architecture, numerical methods, experiment de
   <img src="assets/profile-views-chart.png" alt="Profile views over time"/>
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://komarev.com/ghpvc/?username=matthewjdoyle&color=05E68C&style=plastic" alt="Current Profile Views"/>
 </div>
 
