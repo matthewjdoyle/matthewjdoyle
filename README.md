@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="favicon.svg" width="100" height="100" alt="Favicon"/>
   <h1>Matthew J. Doyle, PhD</h1>
@@ -8,14 +7,13 @@ Interested in computing, software architecture, numerical methods, experiment de
 
 ## About Me
 
-* PhD in Physics from the University of Manchester, specialising in numerical simulation and experimental visualisation of quantum turbulence.
-* MSci in Physics from the University of Bristol, with a research project focused on simulating particle-collision experiments, developing conformal-tracking algorithms, and evaluating detector components for the proposed Compact Linear Collider (CERN).
-* Experienced in scientific computing with C++, Fortran, Python, MATLAB and shell scripting.
-* Favourite algorithms: Adams-Basforth, Barnes-Hut Tree, RK4, Monte-Carlo methods.
-* Experience contributing to RLHF for frontier LLM training in physics, programming and computer-use.
-* Maintainer of several free-to-use web applications and interactive demos: [matthewd0yle.com/portfolio](https://matthewd0yle.com/portfolio)
-* Experimenting with local and open-weight LLMs, agentic automations and AI powered software.
-
+- PhD in Physics from the University of Manchester, specialising in numerical simulation and experimental visualisation of quantum turbulence.
+- MSci in Physics from the University of Bristol, with a research project focused on simulating particle-collision experiments, developing conformal-tracking algorithms, and evaluating detector components for the proposed Compact Linear Collider (CERN).
+- Experienced in scientific computing with C++, Fortran, Python, MATLAB and shell scripting.
+- Favourite algorithms: Adams-Basforth, Barnes-Hut Tree, RK4, Monte-Carlo methods.
+- Experience contributing to RLHF for frontier LLM training in physics, programming and computer-use.
+- Maintainer of several free-to-use web applications and interactive demos: [matthewd0yle.com/portfolio](https://matthewd0yle.com/portfolio)
+- Experimenting with local and open-weight LLMs, agentic automations and AI powered software.
 
 ## Get in Touch
 
@@ -40,10 +38,9 @@ Interested in computing, software architecture, numerical methods, experiment de
   <img src="assets/profile-views-chart.png" alt="Profile views over time"/>
 </div>
 
-<!-- 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=matthewjdoyle&color=05E68C&style=flat-square" alt="Current Profile Views"/>
-</div> -->
+  <img src="https://komarev.com/ghpvc/?username=matthewjdoyle&color=05E68C&style=plastic" alt="Current Profile Views"/>
+</div>
 
 </br>
 
