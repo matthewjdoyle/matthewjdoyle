@@ -44,8 +44,3 @@ Interested in computing, software architecture, numerical methods, experiment de
 
 </br>
 
----
-
-Just here for the xp.
-</br>
-<img src="hq720.jpg" height="20" style="width:auto;" alt="199,392,821 cooking xp"/>
