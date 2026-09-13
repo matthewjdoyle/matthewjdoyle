@@ -7,7 +7,7 @@ Interested in computing, software architecture, numerical methods, experiment de
 
 ## About Me
 
-- PhD in Physics from the University of Manchester, specialising in numerical simulation and experimental visualisation of quantum turbulence.
+- PhD in Condensed Matter Physics from the University of Manchester, specialising in numerical simulation and experimental visualisation of quantum turbulence.
 - MSci in Physics from the University of Bristol, with a research project focused on simulating particle-collision experiments, developing conformal-tracking algorithms, and evaluating detector components for the proposed Compact Linear Collider (CERN).
 - Experienced in scientific computing with C++, Fortran, Python, MATLAB and shell scripting.
 - Favourite algorithms: Adams-Basforth, Barnes-Hut Tree, RK4, Monte-Carlo methods.
