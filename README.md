@@ -9,11 +9,9 @@ Interested in computing, software architecture, numerical methods, experiment de
 
 - PhD in Condensed Matter Physics from the University of Manchester, specialising in numerical simulation and experimental visualisation of quantum turbulence.
 - MSci in Physics from the University of Bristol, with a research project focused on simulating particle-collision experiments, developing conformal-tracking algorithms, and evaluating detector components for the proposed Compact Linear Collider (CERN).
-- Experienced in scientific computing with C++, Fortran, Python, MATLAB and shell scripting.
-- Favourite algorithms: Adams-Basforth, Barnes-Hut Tree, RK4, Monte-Carlo methods.
-- Experience contributing to RLHF for frontier LLM training in physics, programming and computer-use.
+- Experienced in scientific computing with Python, C++, Fortran, MATLAB and bash.
 - Maintainer of several free-to-use web applications and interactive demos: [matthewd0yle.com/portfolio](https://matthewd0yle.com/portfolio)
-- Experimenting with local and open-weight LLMs, agentic automations and AI powered software.
+
 
 ## Get in Touch
 
